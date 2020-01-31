@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e07ba952-38f4-45be-a0be-f2d7b69c0006" name="Default Changelist" comment="" />
+    <list default="true" id="e07ba952-38f4-45be-a0be-f2d7b69c0006" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Base/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Base/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Common/CommonPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Common/CommonPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Common/HeaderPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Common/HeaderPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/StudentsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/StudentsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Test/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test/TestHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Test/TestStudentsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test/TestStudentsPage.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -32,7 +47,7 @@
       <recent name="C:\JWS\Automation_ITSutra_Project_POM\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestStudentsPage (1)">
+  <component name="RunManager" selected="TestNG.TestStudentsPage.verifyAddStudents">
     <configuration name="TestStudentsPage (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ITSutraAutomation" />
       <extension name="coverage">
@@ -67,8 +82,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestStudentsPage.verifyAddStudents" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project_Automation_ITsutra_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.TestStudentsPage" />
+      <option name="METHOD_NAME" value="verifyAddStudents" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestStudentsPage.verifyAddStudents" />
         <item itemvalue="TestNG.TestStudentsPage (1)" />
         <item itemvalue="TestNG.TestStudentsPage" />
       </list>
@@ -104,6 +138,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="534" y="257" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580429188864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="257" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1580429188864" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1578935832785">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
